@@ -5,6 +5,10 @@
 Unidom (UNIfied Domain Object Model) is a series of domain model engines. The Promotion domain model engine includes Promotion and Voucher models.
 Unidom (统一领域对象模型)是一系列的领域模型引擎。促销领域模型引擎包括促销和代金券的模型。
 
+## Recent Update
+Check out the [Road Map](ROADMAP.md) to find out what's the next.
+Check out the [Change Log](CHANGELOG.md) to find out what's new.
+
 ## Usage in Gemfile
 ```ruby
 gem 'unidom-promotion'
