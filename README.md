@@ -18,6 +18,7 @@ gem 'unidom-promotion'
 ```shell
 rake db:migrate
 ```
+The migration versions start with 200207.
 
 ## Call the Model
 ```ruby
