@@ -1,6 +1,8 @@
 # Unidom Promotion 促销领域模型引擎
 
+[![Documentation](http://img.shields.io/badge/docs-rdoc.info-blue.svg)](http://www.rubydoc.info/gems/unidom-promotion/frames)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](http://opensource.org/licenses/MIT)
+
 [![Gem Version](https://badge.fury.io/rb/unidom-promotion.svg)](https://badge.fury.io/rb/unidom-promotion)
 [![Dependency Status](https://gemnasium.com/badges/github.com/topbitdu/unidom-promotion.svg)](https://gemnasium.com/github.com/topbitdu/unidom-promotion)
 
